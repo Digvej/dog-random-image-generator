@@ -11,7 +11,7 @@ Below are screenshots of how the app looks:
 
 | Initial Page | Random Dog Image 1 | Random Dog Image 2 |
 |---------------|-------------------|-------------------|
-| ![Initial](Screenshot dog_api0.png) | ![Dog1](Screenshot dog_api1.png) | ![Dog2](Screenshot dog_api2.png) |
+| ![Initial](Screenshot_dog_api0.png) | ![Dog1](Screenshot_dog_api1.png) | ![Dog2](Screenshot_dog_api2.png) |
 
 ---
 
