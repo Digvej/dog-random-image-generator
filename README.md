@@ -50,6 +50,8 @@ This project helps you learn:
    ```bash
    cd dog-random-image-generator
 3.Open the index.html file in your browser.
+
 start index.html   # Windows
+
 open index.html    # Mac
 
